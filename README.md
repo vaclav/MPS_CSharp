@@ -6,4 +6,4 @@ The https://github.com/premun/ingrid tool was used for the import and only minor
 
 The language has the structure, editor and textgen aspects fully defined and it is primarily meant to be used as a target language for code generation.
 
-Further enhancements to the editor aspect are necessary before it can be used any serious work. Enhancing the Constraints, type-system and textgen woudl also be benefitial in order to make use of the language in MPS convenient, intuitive and properly assisted.
+Further enhancements to the editor aspect are necessary before it can be used for any serious work. Enhancing the constraints, type-system and textgen would also be benefitial in order to make use of the language in MPS convenient, intuitive and properly assisted.
