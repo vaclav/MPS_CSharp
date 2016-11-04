@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="CSharp.structure.CHARACTER_LITERAL_PropertySupport" file="CHARACTER_LITERAL_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.ConceptPresentationAspectImpl" file="ConceptPresentationAspectImpl.java">
+    <classNode dependClassName="CSharp.structure.StructureAspectDescriptor" />
+    <classNode dependClassName="java.lang.IllegalStateException" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.ConceptPresentation" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.ConceptPresentationBuilder" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.StructureAspectDescriptor" />
+    <classNode dependClassName="org.jetbrains.annotations.Nullable" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.language.SAbstractConcept" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.ConceptPresentationAspectBase" />
+  </dependency>
+  <dependency className="CSharp.structure.DOUBLE_QUOTE_INSIDE_PropertySupport" file="DOUBLE_QUOTE_INSIDE_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.FORMAT_STRING_PropertySupport" file="FORMAT_STRING_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.HEX_INTEGER_LITERAL_PropertySupport" file="HEX_INTEGER_LITERAL_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.IDENTIFIER_PropertySupport" file="IDENTIFIER_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.INTEGER_LITERAL_PropertySupport" file="INTEGER_LITERAL_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.INTERPOLATED_REGULAR_STRING_START_PropertySupport" file="INTERPOLATED_REGULAR_STRING_START_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.INTERPOLATED_VERBATIUM_STRING_START_PropertySupport" file="INTERPOLATED_VERBATIUM_STRING_START_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.LITERAL_ACCESS_PropertySupport" file="LITERAL_ACCESS_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.REAL_LITERAL_PropertySupport" file="REAL_LITERAL_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.REGULAR_CHAR_INSIDE_PropertySupport" file="REGULAR_CHAR_INSIDE_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.REGULAR_STRING_INSIDE_PropertySupport" file="REGULAR_STRING_INSIDE_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.REGULAR_STRING_PropertySupport" file="REGULAR_STRING_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.StructureAspectDescriptor" file="StructureAspectDescriptor.java">
+    <classNode dependClassName="java.lang.IllegalStateException" />
+    <classNode dependClassName="java.lang.Integer" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="java.util.Collection" />
+    <classNode dependClassName="java.util.HashMap" />
+    <classNode dependClassName="java.util.Map" />
+    <classNode dependClassName="jetbrains.mps.smodel.SNodePointer" />
+    <classNode dependClassName="jetbrains.mps.smodel.adapter.ids.MetaIdFactory" />
+    <classNode dependClassName="jetbrains.mps.smodel.adapter.ids.SConceptId" />
+    <classNode dependClassName="jetbrains.mps.smodel.adapter.structure.concept.SConceptAdapterById" />
+    <classNode dependClassName="jetbrains.mps.smodel.adapter.structure.concept.SInterfaceConceptAdapterById" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.ConceptDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.impl.ConceptDescriptorBuilder" />
+    <classNode dependClassName="org.jetbrains.annotations.Nullable" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.language.SAbstractConcept" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BaseStructureAspectDescriptor" />
+  </dependency>
+  <dependency className="CSharp.structure.VERBATIUM_INSIDE_STRING_PropertySupport" file="VERBATIUM_INSIDE_STRING_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+  <dependency className="CSharp.structure.VERBATIUM_STRING_PropertySupport" file="VERBATIUM_STRING_PropertySupport.java">
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.PropertySupport" />
+  </dependency>
+</dependenciesRoot>
+

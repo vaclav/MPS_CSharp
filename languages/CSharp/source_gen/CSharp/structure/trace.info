@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,2377,0" name="CSharp.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="20,0,5550,0" name="CSharp.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182320833">
+    <file name="INTERPOLATED_REGULAR_STRING_START_PropertySupport.java">
+      <node id="31713074182320833" at="8,44,9,28" concept="4" />
+      <node id="31713074182320833" at="10,24,11,21" concept="1" />
+      <node id="31713074182320833" at="12,12,13,24" concept="1" />
+      <node id="31713074182320833" at="14,5,15,42" concept="5" />
+      <node id="31713074182320833" at="12,10,14,5" concept="0" />
+      <node id="31713074182320833" at="9,28,14,5" concept="2" />
+      <node id="31713074182320833" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182320833" at="10,24,11,21" />
+      <scope id="31713074182320833" at="12,12,13,24" />
+      <scope id="31713074182320833" at="8,44,15,42">
+        <var name="testValue" id="31713074182320833" />
+      </scope>
+      <scope id="31713074182320833" at="8,0,17,0">
+        <var name="value" id="31713074182320833" />
+      </scope>
+      <unit id="31713074182320833" at="7,0,18,0" name="CSharp.structure.INTERPOLATED_REGULAR_STRING_START_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182320836">
+    <file name="DOUBLE_QUOTE_INSIDE_PropertySupport.java">
+      <node id="31713074182320836" at="8,44,9,28" concept="4" />
+      <node id="31713074182320836" at="10,24,11,21" concept="1" />
+      <node id="31713074182320836" at="12,12,13,24" concept="1" />
+      <node id="31713074182320836" at="14,5,15,41" concept="5" />
+      <node id="31713074182320836" at="12,10,14,5" concept="0" />
+      <node id="31713074182320836" at="9,28,14,5" concept="2" />
+      <node id="31713074182320836" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182320836" at="10,24,11,21" />
+      <scope id="31713074182320836" at="12,12,13,24" />
+      <scope id="31713074182320836" at="8,44,15,41">
+        <var name="testValue" id="31713074182320836" />
+      </scope>
+      <scope id="31713074182320836" at="8,0,17,0">
+        <var name="value" id="31713074182320836" />
+      </scope>
+      <unit id="31713074182320836" at="7,0,18,0" name="CSharp.structure.DOUBLE_QUOTE_INSIDE_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182320948">
+    <file name="VERBATIUM_INSIDE_STRING_PropertySupport.java">
+      <node id="31713074182320948" at="8,44,9,28" concept="4" />
+      <node id="31713074182320948" at="10,24,11,21" concept="1" />
+      <node id="31713074182320948" at="12,12,13,24" concept="1" />
+      <node id="31713074182320948" at="14,5,15,47" concept="5" />
+      <node id="31713074182320948" at="12,10,14,5" concept="0" />
+      <node id="31713074182320948" at="9,28,14,5" concept="2" />
+      <node id="31713074182320948" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182320948" at="10,24,11,21" />
+      <scope id="31713074182320948" at="12,12,13,24" />
+      <scope id="31713074182320948" at="8,44,15,47">
+        <var name="testValue" id="31713074182320948" />
+      </scope>
+      <scope id="31713074182320948" at="8,0,17,0">
+        <var name="value" id="31713074182320948" />
+      </scope>
+      <unit id="31713074182320948" at="7,0,18,0" name="CSharp.structure.VERBATIUM_INSIDE_STRING_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321003">
+    <file name="FORMAT_STRING_PropertySupport.java">
+      <node id="31713074182321003" at="8,44,9,28" concept="4" />
+      <node id="31713074182321003" at="10,24,11,21" concept="1" />
+      <node id="31713074182321003" at="12,12,13,24" concept="1" />
+      <node id="31713074182321003" at="14,5,15,40" concept="5" />
+      <node id="31713074182321003" at="12,10,14,5" concept="0" />
+      <node id="31713074182321003" at="9,28,14,5" concept="2" />
+      <node id="31713074182321003" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321003" at="10,24,11,21" />
+      <scope id="31713074182321003" at="12,12,13,24" />
+      <scope id="31713074182321003" at="8,44,15,40">
+        <var name="testValue" id="31713074182321003" />
+      </scope>
+      <scope id="31713074182321003" at="8,0,17,0">
+        <var name="value" id="31713074182321003" />
+      </scope>
+      <unit id="31713074182321003" at="7,0,18,0" name="CSharp.structure.FORMAT_STRING_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321142">
+    <file name="REGULAR_STRING_PropertySupport.java">
+      <node id="31713074182321142" at="8,44,9,28" concept="4" />
+      <node id="31713074182321142" at="10,24,11,21" concept="1" />
+      <node id="31713074182321142" at="12,12,13,24" concept="1" />
+      <node id="31713074182321142" at="14,5,15,681" concept="5" />
+      <node id="31713074182321142" at="12,10,14,5" concept="0" />
+      <node id="31713074182321142" at="9,28,14,5" concept="2" />
+      <node id="31713074182321142" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321142" at="10,24,11,21" />
+      <scope id="31713074182321142" at="12,12,13,24" />
+      <scope id="31713074182321142" at="8,44,15,681">
+        <var name="testValue" id="31713074182321142" />
+      </scope>
+      <scope id="31713074182321142" at="8,0,17,0">
+        <var name="value" id="31713074182321142" />
+      </scope>
+      <unit id="31713074182321142" at="7,0,18,0" name="CSharp.structure.REGULAR_STRING_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321144">
+    <file name="VERBATIUM_STRING_PropertySupport.java">
+      <node id="31713074182321144" at="8,44,9,28" concept="4" />
+      <node id="31713074182321144" at="10,24,11,21" concept="1" />
+      <node id="31713074182321144" at="12,12,13,24" concept="1" />
+      <node id="31713074182321144" at="14,5,15,51" concept="5" />
+      <node id="31713074182321144" at="12,10,14,5" concept="0" />
+      <node id="31713074182321144" at="9,28,14,5" concept="2" />
+      <node id="31713074182321144" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321144" at="10,24,11,21" />
+      <scope id="31713074182321144" at="12,12,13,24" />
+      <scope id="31713074182321144" at="8,44,15,51">
+        <var name="testValue" id="31713074182321144" />
+      </scope>
+      <scope id="31713074182321144" at="8,0,17,0">
+        <var name="value" id="31713074182321144" />
+      </scope>
+      <unit id="31713074182321144" at="7,0,18,0" name="CSharp.structure.VERBATIUM_STRING_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321184">
+    <file name="INTEGER_LITERAL_PropertySupport.java">
+      <node id="31713074182321184" at="8,44,9,28" concept="4" />
+      <node id="31713074182321184" at="10,24,11,21" concept="1" />
+      <node id="31713074182321184" at="12,12,13,24" concept="1" />
+      <node id="31713074182321184" at="14,5,15,69" concept="5" />
+      <node id="31713074182321184" at="12,10,14,5" concept="0" />
+      <node id="31713074182321184" at="9,28,14,5" concept="2" />
+      <node id="31713074182321184" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321184" at="10,24,11,21" />
+      <scope id="31713074182321184" at="12,12,13,24" />
+      <scope id="31713074182321184" at="8,44,15,69">
+        <var name="testValue" id="31713074182321184" />
+      </scope>
+      <scope id="31713074182321184" at="8,0,17,0">
+        <var name="value" id="31713074182321184" />
+      </scope>
+      <unit id="31713074182321184" at="7,0,18,0" name="CSharp.structure.INTEGER_LITERAL_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321186">
+    <file name="HEX_INTEGER_LITERAL_PropertySupport.java">
+      <node id="31713074182321186" at="8,44,9,28" concept="4" />
+      <node id="31713074182321186" at="10,24,11,21" concept="1" />
+      <node id="31713074182321186" at="12,12,13,24" concept="1" />
+      <node id="31713074182321186" at="14,5,15,88" concept="5" />
+      <node id="31713074182321186" at="12,10,14,5" concept="0" />
+      <node id="31713074182321186" at="9,28,14,5" concept="2" />
+      <node id="31713074182321186" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321186" at="10,24,11,21" />
+      <scope id="31713074182321186" at="12,12,13,24" />
+      <scope id="31713074182321186" at="8,44,15,88">
+        <var name="testValue" id="31713074182321186" />
+      </scope>
+      <scope id="31713074182321186" at="8,0,17,0">
+        <var name="value" id="31713074182321186" />
+      </scope>
+      <unit id="31713074182321186" at="7,0,18,0" name="CSharp.structure.HEX_INTEGER_LITERAL_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321188">
+    <file name="REAL_LITERAL_PropertySupport.java">
+      <node id="31713074182321188" at="8,44,9,28" concept="4" />
+      <node id="31713074182321188" at="10,24,11,21" concept="1" />
+      <node id="31713074182321188" at="12,12,13,24" concept="1" />
+      <node id="31713074182321188" at="14,5,15,147" concept="5" />
+      <node id="31713074182321188" at="12,10,14,5" concept="0" />
+      <node id="31713074182321188" at="9,28,14,5" concept="2" />
+      <node id="31713074182321188" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321188" at="10,24,11,21" />
+      <scope id="31713074182321188" at="12,12,13,24" />
+      <scope id="31713074182321188" at="8,44,15,147">
+        <var name="testValue" id="31713074182321188" />
+      </scope>
+      <scope id="31713074182321188" at="8,0,17,0">
+        <var name="value" id="31713074182321188" />
+      </scope>
+      <unit id="31713074182321188" at="7,0,18,0" name="CSharp.structure.REAL_LITERAL_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321190">
+    <file name="CHARACTER_LITERAL_PropertySupport.java">
+      <node id="31713074182321190" at="8,44,9,28" concept="4" />
+      <node id="31713074182321190" at="10,24,11,21" concept="1" />
+      <node id="31713074182321190" at="12,12,13,24" concept="1" />
+      <node id="31713074182321190" at="14,5,15,685" concept="5" />
+      <node id="31713074182321190" at="12,10,14,5" concept="0" />
+      <node id="31713074182321190" at="9,28,14,5" concept="2" />
+      <node id="31713074182321190" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321190" at="10,24,11,21" />
+      <scope id="31713074182321190" at="12,12,13,24" />
+      <scope id="31713074182321190" at="8,44,15,685">
+        <var name="testValue" id="31713074182321190" />
+      </scope>
+      <scope id="31713074182321190" at="8,0,17,0">
+        <var name="value" id="31713074182321190" />
+      </scope>
+      <unit id="31713074182321190" at="7,0,18,0" name="CSharp.structure.CHARACTER_LITERAL_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321204">
+    <file name="LITERAL_ACCESS_PropertySupport.java">
+      <node id="31713074182321204" at="8,44,9,28" concept="4" />
+      <node id="31713074182321204" at="10,24,11,21" concept="1" />
+      <node id="31713074182321204" at="12,12,13,24" concept="1" />
+      <node id="31713074182321204" at="14,5,15,22497" concept="5" />
+      <node id="31713074182321204" at="12,10,14,5" concept="0" />
+      <node id="31713074182321204" at="9,28,14,5" concept="2" />
+      <node id="31713074182321204" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321204" at="10,24,11,21" />
+      <scope id="31713074182321204" at="12,12,13,24" />
+      <scope id="31713074182321204" at="8,44,15,22497">
+        <var name="testValue" id="31713074182321204" />
+      </scope>
+      <scope id="31713074182321204" at="8,0,17,0">
+        <var name="value" id="31713074182321204" />
+      </scope>
+      <unit id="31713074182321204" at="7,0,18,0" name="CSharp.structure.LITERAL_ACCESS_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321351">
+    <file name="IDENTIFIER_PropertySupport.java">
+      <node id="31713074182321351" at="8,44,9,28" concept="4" />
+      <node id="31713074182321351" at="10,24,11,21" concept="1" />
+      <node id="31713074182321351" at="12,12,13,24" concept="1" />
+      <node id="31713074182321351" at="14,5,15,22458" concept="5" />
+      <node id="31713074182321351" at="12,10,14,5" concept="0" />
+      <node id="31713074182321351" at="9,28,14,5" concept="2" />
+      <node id="31713074182321351" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321351" at="10,24,11,21" />
+      <scope id="31713074182321351" at="12,12,13,24" />
+      <scope id="31713074182321351" at="8,44,15,22458">
+        <var name="testValue" id="31713074182321351" />
+      </scope>
+      <scope id="31713074182321351" at="8,0,17,0">
+        <var name="value" id="31713074182321351" />
+      </scope>
+      <unit id="31713074182321351" at="7,0,18,0" name="CSharp.structure.IDENTIFIER_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321354">
+    <file name="REGULAR_CHAR_INSIDE_PropertySupport.java">
+      <node id="31713074182321354" at="8,44,9,28" concept="4" />
+      <node id="31713074182321354" at="10,24,11,21" concept="1" />
+      <node id="31713074182321354" at="12,12,13,24" concept="1" />
+      <node id="31713074182321354" at="14,5,15,156" concept="5" />
+      <node id="31713074182321354" at="12,10,14,5" concept="0" />
+      <node id="31713074182321354" at="9,28,14,5" concept="2" />
+      <node id="31713074182321354" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321354" at="10,24,11,21" />
+      <scope id="31713074182321354" at="12,12,13,24" />
+      <scope id="31713074182321354" at="8,44,15,156">
+        <var name="testValue" id="31713074182321354" />
+      </scope>
+      <scope id="31713074182321354" at="8,0,17,0">
+        <var name="value" id="31713074182321354" />
+      </scope>
+      <unit id="31713074182321354" at="7,0,18,0" name="CSharp.structure.REGULAR_CHAR_INSIDE_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321356">
+    <file name="REGULAR_STRING_INSIDE_PropertySupport.java">
+      <node id="31713074182321356" at="8,44,9,28" concept="4" />
+      <node id="31713074182321356" at="10,24,11,21" concept="1" />
+      <node id="31713074182321356" at="12,12,13,24" concept="1" />
+      <node id="31713074182321356" at="14,5,15,49" concept="5" />
+      <node id="31713074182321356" at="12,10,14,5" concept="0" />
+      <node id="31713074182321356" at="9,28,14,5" concept="2" />
+      <node id="31713074182321356" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321356" at="10,24,11,21" />
+      <scope id="31713074182321356" at="12,12,13,24" />
+      <scope id="31713074182321356" at="8,44,15,49">
+        <var name="testValue" id="31713074182321356" />
+      </scope>
+      <scope id="31713074182321356" at="8,0,17,0">
+        <var name="value" id="31713074182321356" />
+      </scope>
+      <unit id="31713074182321356" at="7,0,18,0" name="CSharp.structure.REGULAR_STRING_INSIDE_PropertySupport" />
+    </file>
+  </root>
+  <root nodeRef="r:66408d77-ffb3-4326-9a15-5d799ccaf950(CSharp.structure)/31713074182321436">
+    <file name="INTERPOLATED_VERBATIUM_STRING_START_PropertySupport.java">
+      <node id="31713074182321436" at="8,44,9,28" concept="4" />
+      <node id="31713074182321436" at="10,24,11,21" concept="1" />
+      <node id="31713074182321436" at="12,12,13,24" concept="1" />
+      <node id="31713074182321436" at="14,5,15,43" concept="5" />
+      <node id="31713074182321436" at="12,10,14,5" concept="0" />
+      <node id="31713074182321436" at="9,28,14,5" concept="2" />
+      <node id="31713074182321436" at="8,0,17,0" concept="3" trace="canSetValue#(Ljava/lang/String;)Z" />
+      <scope id="31713074182321436" at="10,24,11,21" />
+      <scope id="31713074182321436" at="12,12,13,24" />
+      <scope id="31713074182321436" at="8,44,15,43">
+        <var name="testValue" id="31713074182321436" />
+      </scope>
+      <scope id="31713074182321436" at="8,0,17,0">
+        <var name="value" id="31713074182321436" />
+      </scope>
+      <unit id="31713074182321436" at="7,0,18,0" name="CSharp.structure.INTERPOLATED_VERBATIUM_STRING_START_PropertySupport" />
+    </file>
+  </root>
+</debug-info>
+
